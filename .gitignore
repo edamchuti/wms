@@ -1,0 +1,5 @@
+#Remove all logs
+logs/**
+trace.txt
+media/**
+.idea
